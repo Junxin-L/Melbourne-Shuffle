@@ -1,6 +1,6 @@
 # Melbourne Shuffle Implementation in Python
 
-This repository contains a Python implementation of the Melbourne Shuffle, a technique for improving oblivious storage in the cloud, as described in the paper "The Melbourne Shuffle: Improving Oblivious Storage in the Cloud" by K. G. Paterson, E. Shi, and J. Spencer.
+This repository contains a Python implementation of the Melbourne Shuffle, a technique for improving oblivious storage in the cloud, as described in the paper "The Melbourne Shuffle: Improving Oblivious Storage in the Cloud" .
 
 ## What is the Melbourne Shuffle?
 
@@ -27,7 +27,3 @@ python test_melbourne_shuffle.py
 ```
 
 If the tests pass, you can then run the Melbourne Shuffle algorithm for your task.
-
-## References
-
-- Paterson, K. G., Shi, E., & Spencer, J. (2015). The Melbourne Shuffle: Improving Oblivious Storage in the Cloud. In Advances in Cryptology – EUROCRYPT 2015 (pp. 285-314). Springer, Berlin, Heidelberg.
